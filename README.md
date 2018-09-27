@@ -26,7 +26,7 @@ If we are discussing a deployment architecture for ML batch scoring scenarios w/
  
 **Step 3:** [Create a cluster inside Databricks]
  
-**Step 4:** Execute and understand the `SparkR + ADLS.r` sample code. Tasks performed on this sample:
+**Step 4:** [Execute and understand this sample code] (`SparkR + ADLS.r`) . Tasks performed on this sample:
 
 - ADLS (Azure Data Lake Storage Gen1) Mount for usage with R and SparkR
 - Usage of Databricks dbutils library
@@ -44,3 +44,4 @@ Here are some additional resources for understanding the orchestration of the R 
 [Create an Azure Databricks Workspace]:https://docs.microsoft.com/es-mx/azure/azure-databricks/quickstart-create-databricks-workspace-portal
 [Create a cluster inside Databricks]:https://docs.microsoft.com/es-mx/azure/azure-databricks/quickstart-create-databricks-workspace-portal#create-a-spark-cluster-in-databricks
 [Create an ADLS (Azure Data Lake Storage)]:https://docs.microsoft.com/pt-br/azure/data-lake-store/data-lake-store-get-started-portal
+[Execute and understand this sample code]:https://github.com/nansravn/Databricks101/blob/master/SparkR%20%2B%20ADLS.r
