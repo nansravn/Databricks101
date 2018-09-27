@@ -36,12 +36,15 @@ If we are discussing a deployment architecture for ML batch scoring scenarios w/
 ### Orchestrating Databricks batch scoring 
  
 Here are some additional resources for understanding the orchestration of the R models execution:
-- Orchestrating Databricks code execution via ADF: https://docs.microsoft.com/es-mx/azure/data-factory/transform-data-using-databricks-notebook
-- Databricks linked service configuration for creating a new Databricks cluster (using ADF): https://docs.microsoft.com/es-mx/azure/data-factory/compute-linked-services#azure-databricks-linked-service
-- Documentation of the Databricks Notebook Activity (using ADF): https://docs.microsoft.com/es-mx/azure/data-factory/transform-data-databricks-notebook
+- [Orchestrating Databricks code execution (using ADF)]
+- [Databricks linked service configuration for creating a new Databricks cluster (using ADF)]
+- [Documentation of the Databricks Notebook Activity (using ADF)]
 
 [10 things I wish someone had told me before I started using Apache SparkR]:https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8599738367597028/1792412399382575/3601578643761083/latest.html
 [Create an Azure Databricks Workspace]:https://docs.microsoft.com/es-mx/azure/azure-databricks/quickstart-create-databricks-workspace-portal
 [Create a cluster inside Databricks]:https://docs.microsoft.com/es-mx/azure/azure-databricks/quickstart-create-databricks-workspace-portal#create-a-spark-cluster-in-databricks
 [Create an ADLS (Azure Data Lake Storage)]:https://docs.microsoft.com/pt-br/azure/data-lake-store/data-lake-store-get-started-portal
 [Execute and understand this sample code]:https://github.com/nansravn/Databricks101/blob/master/SparkR%20%2B%20ADLS.r
+[Orchestrating Databricks code execution (using ADF)]:https://docs.microsoft.com/es-mx/azure/data-factory/transform-data-using-databricks-notebook
+[Databricks linked service configuration for creating a new Databricks cluster (using ADF)]:https://docs.microsoft.com/es-mx/azure/data-factory/compute-linked-services#azure-databricks-linked-service
+[Documentation of the Databricks Notebook Activity (using ADF)]:https://docs.microsoft.com/es-mx/azure/data-factory/transform-data-databricks-notebook
